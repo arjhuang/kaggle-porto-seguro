@@ -60,6 +60,7 @@ iPython Notebook [here](https://github.com/Jihenghuang/kaggle-porto-seguro/blob/
 
 * Train A Model: Linear Regression to Predict
 Output sample
+
 |	id|	target|
 |	0| 0.027729|
 |	1	|0.032712|
@@ -71,3 +72,6 @@ Output sample
 |	8	|0.019596|
 |	10	|0.066153|
 |	11	|0.043696|
+
+* Submit to Kaggle Competition
+Current normalized Gini score: 0.241
