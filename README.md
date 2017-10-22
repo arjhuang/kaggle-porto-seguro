@@ -30,9 +30,13 @@ iPython Notebook [here](https://github.com/Jihenghuang/kaggle-porto-seguro/blob/
 ![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/Feature-Data-Distribution.jpg)
 
 * Selected 20 most important features contributing to a claim to be filed (target = 1)
+
         feature_select  feature_importance
+        
 0            ps_car_13            0.098262
+
 1            ps_reg_03            0.093183
+
 2            ps_car_14            0.057226
 3            ps_ind_03            0.051262
 4            ps_ind_15            0.051083
