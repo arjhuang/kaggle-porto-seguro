@@ -28,9 +28,7 @@ iPython Notebook [here](https://github.com/Jihenghuang/kaggle-porto-seguro/blob/
 
 * Remaining Feature Data Distribution
 ![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/Feature-Data-Distribution.jpg)
-
-* Selected 20 most important features contributing to a claim to be filed (target = 1)
-
+* Use Random Forest Classifier, the top 20 features contributing to a claim to be filed (target = 1)
 |       | feature_select | feature_importance|
 |-------|:--------------:| -----------------:|
 |1      |      ps_car_13 |           0.098262|
