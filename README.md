@@ -31,27 +31,27 @@ iPython Notebook [here](https://github.com/Jihenghuang/kaggle-porto-seguro/blob/
 
 * Selected 20 most important features contributing to a claim to be filed (target = 1)
 
-        feature_select  feature_importance
-        
-0            ps_car_13            0.098262
+|       | feature_select | feature_importance |
+|-------|:--------------:| ------------------:|
+1            ps_car_13            0.098262
 
-1            ps_reg_03            0.093183
+2            ps_reg_03            0.093183
 
-2            ps_car_14            0.057226
-3            ps_ind_03            0.051262
-4            ps_ind_15            0.051083
-5            ps_reg_02            0.049227
-6            ps_ind_01            0.036896
-7            ps_car_15            0.036607
-8            ps_reg_01            0.036353
-9            ps_car_12            0.027303
-10           ps_car_11            0.012646
-11  ps_car_01_cat_11.0            0.008632
-12   ps_car_09_cat_2.0            0.008630
-13   ps_ind_04_cat_0.0            0.008376
-14   ps_ind_02_cat_1.0            0.008298
-15   ps_ind_04_cat_1.0            0.008273
-16   ps_ind_02_cat_2.0            0.008004
-17       ps_ind_16_bin            0.008000
-18   ps_car_09_cat_0.0            0.007793
-19   ps_car_01_cat_7.0            0.007719
+3            ps_car_14            0.057226
+4            ps_ind_03            0.051262
+5            ps_ind_15            0.051083
+6            ps_reg_02            0.049227
+7            ps_ind_01            0.036896
+8            ps_car_15            0.036607
+9            ps_reg_01            0.036353
+10            ps_car_12            0.027303
+11           ps_car_11            0.012646
+12  ps_car_01_cat_11.0            0.008632
+13   ps_car_09_cat_2.0            0.008630
+14   ps_ind_04_cat_0.0            0.008376
+15   ps_ind_02_cat_1.0            0.008298
+16   ps_ind_04_cat_1.0            0.008273
+17   ps_ind_02_cat_2.0            0.008004
+18       ps_ind_16_bin            0.008000
+19   ps_car_09_cat_0.0            0.007793
+20   ps_car_01_cat_7.0            0.007719
