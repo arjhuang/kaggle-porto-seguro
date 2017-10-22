@@ -20,7 +20,11 @@ iPython Notebook [here](https://github.com/Jihenghuang/kaggle-porto-seguro/blob/
 ### Reference and Future Work
 For the random forest classifier part in this project , I referenced codes from [Prof. Ravi Shroff](http://cusp.nyu.edu/people/ravi-shroff/) 's Machine Learning class at CUSP.
 
-I think there are two ways to improve this project: First of all, when creating dummy variables for categorical features, my code used a lot of computing resources and create sparse matrix due to the **104** unique values feature *ps_car_11_cat* has. Although the random forest classifier reduced dimensionality later in the project, I am still searching for better ways to convert categorical features at this step. Second, try more prediction algorithms, obviously. I can add more models in the future working on this project.
+I think there are two ways to improve this project: 
+
+First of all, when creating dummy variables for categorical features, my code used a lot of computing resources and create sparse matrix due to the **104** unique values feature *ps_car_11_cat* has. Although the random forest classifier reduced dimensionality later in the project, I am still searching for better ways to convert categorical features at this step. 
+
+Secondly, try more prediction algorithms, obviously. I can add more models in the future working on this project.
 
 ### Analysis Highlights
 * Missing Data
