@@ -19,9 +19,9 @@ iPython Notebook [here](https://github.com/Jihenghuang/kaggle-porto-seguro/blob/
 
 ### Analysis Highlights
 * Missing Data
-<div style="left-margin:200px" markdown="1">
-![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing-in-Training-Dataset.jpg)
-</div>
+
+![alt text, align="center"](http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing-in-Training-Dataset.jpg)
+
 * Correlation between features
 
 ![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/Correlation-Between-Features.jpg)
