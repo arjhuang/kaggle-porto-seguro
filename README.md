@@ -78,4 +78,5 @@ Output sample
 |	11	|0.043696|
 
 * Submit to Kaggle Competition
+
 Current normalized Gini score: 0.241
