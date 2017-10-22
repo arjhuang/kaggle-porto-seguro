@@ -53,15 +53,19 @@ iPython Notebook [here](https://github.com/Jihenghuang/kaggle-porto-seguro/blob/
 |19  | ps_car_09_cat_0.0         |   0.007793|
 |20  | ps_car_01_cat_7.0        |    0.007719|
 
-* AUC score (produce probabilistic predictions) on training dataset:
+* AUC score (produce probabilistic predictions) on training dataset
+
 0.59645323858
+
 * Accuracy score (predict the class)
+
 0.963615286396
 
 * Train A Model: Linear Regression to Predict
 Output sample
 
 |	id|	target|
+|--------------:| -----------------:|
 |	0| 0.027729|
 |	1	|0.032712|
 |	2	|0.022809|
