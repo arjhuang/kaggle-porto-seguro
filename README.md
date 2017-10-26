@@ -29,7 +29,10 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 ### Analysis Highlights
 * Missing Data
 
-![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing.jpg)
+<p align="center">
+  <img width="920" height="800" src="http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing.jpg">
+</p>
+
 
 * Correlation between features
 
