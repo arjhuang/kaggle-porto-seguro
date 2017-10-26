@@ -77,11 +77,11 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
   
 * AUC score (produce probabilistic predictions) on training dataset
 
-...0.59645323858
+   0.59645323858
 
 * Accuracy score (predict the class)
 
-...0.963615286396
+   0.963615286396
 
 * Train A Model: Logistic Regression to Predict
 Output sample
@@ -101,5 +101,5 @@ Output sample
 
 * Submit to Kaggle Competition
 
-...Current normalized Gini score: 0.241
+   Current normalized Gini score: 0.241
 
