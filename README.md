@@ -30,7 +30,7 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 * Missing Data
 
 <p align="center">
-  <img width="920" height="800" src="http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing.jpg">
+  <img width="600" height="400" src="http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing.jpg">
 </p>
 
 
