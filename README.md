@@ -70,7 +70,7 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 
 0.963615286396
 
-* Train A Model: Linear Regression to Predict
+* Train A Model: Logistic Regression to Predict
 Output sample
 
 |	id|	target|
