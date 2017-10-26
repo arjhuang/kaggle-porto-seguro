@@ -41,7 +41,11 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 </p>
 
 * Remaining Feature Data Distribution
-![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/Feature-Data-Distribution.jpg)
+
+<p align="center">
+  <img width="1600" height="840" src="http://jihenghuang.com/wp-content/uploads/2017/10/Feature-Data-Distribution.jpg">
+</p>
+
 * Use Random Forest Classifier, the top 20 features contributing to a claim to be filed (target = 1)
 
 |       | feature_select | feature_importance|
