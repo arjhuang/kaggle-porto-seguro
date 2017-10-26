@@ -27,7 +27,7 @@ First of all, when creating dummy variables for categorical features, my code us
 Secondly, try more prediction algorithms, obviously. I can add more models in the future working on this project.
 
 ### Analysis Highlights
-* Missing Data
+- Missing Data
 
 <p align="center">
   <img width="1000" height="280" src="http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing.jpg">
