@@ -49,7 +49,8 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 * Use Random Forest Classifier, the top 20 features contributing to a claim to be filed (target = 1)
 
 
-  |       | feature_select | feature_importance|
+
+|       | feature_select | feature_importance|
 |-------|:--------------:| -----------------:|
 |1      |      ps_car_13 |           0.098262|
 |2       |     ps_reg_03   |         0.093183|
@@ -72,6 +73,7 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 |19  | ps_car_09_cat_0.0         |   0.007793|
 |20  | ps_car_01_cat_7.0        |    0.007719|
 
+  
   
 * AUC score (produce probabilistic predictions) on training dataset
 
