@@ -27,17 +27,28 @@ First of all, when creating dummy variables for categorical features, my code us
 Secondly, try more prediction algorithms, obviously. I can add more models in the future working on this project.
 
 ### Analysis Highlights
-* Missing Data
+- Missing Data
 
-![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing.jpg)
+<p align="center">
+  <img width="1000" height="280" src="http://jihenghuang.com/wp-content/uploads/2017/10/5-Features-with-Most-Data-Missing.jpg">
+</p>
+
 
 * Correlation between features
 
-![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/Correlation-Between-Features.jpg)
+<p align="center">
+  <img width="1600" height="560" src="http://jihenghuang.com/wp-content/uploads/2017/10/Correlation-Between-Features.jpg">
+</p>
 
 * Remaining Feature Data Distribution
-![alt text](http://jihenghuang.com/wp-content/uploads/2017/10/Feature-Data-Distribution.jpg)
+
+<p align="center">
+  <img width="1600" height="840" src="http://jihenghuang.com/wp-content/uploads/2017/10/Feature-Data-Distribution.jpg">
+</p>
+
 * Use Random Forest Classifier, the top 20 features contributing to a claim to be filed (target = 1)
+
+
 
 |       | feature_select | feature_importance|
 |-------|:--------------:| -----------------:|
@@ -62,16 +73,18 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 |19  | ps_car_09_cat_0.0         |   0.007793|
 |20  | ps_car_01_cat_7.0        |    0.007719|
 
+  
+  
 * AUC score (produce probabilistic predictions) on training dataset
 
-0.59645323858
+   0.59645323858
 
 * Accuracy score (predict the class)
 
-0.963615286396
+   0.963615286396
 
 * Train A Model: Logistic Regression to Predict
-Output sample
+Output sample (first 10 rows)
 
 |	id|	target|
 |--------------:| -----------------:|
@@ -88,5 +101,5 @@ Output sample
 
 * Submit to Kaggle Competition
 
-Current normalized Gini score: 0.241
+   Current normalized Gini score: 0.241
 
