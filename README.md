@@ -36,7 +36,7 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 
 * Correlation between features
 
-<p align="center">
+<p align="right">
   <img width="1200" height="500" src="http://jihenghuang.com/wp-content/uploads/2017/10/Correlation-Between-Features.jpg">
 </p>
 
