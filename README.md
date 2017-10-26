@@ -84,7 +84,7 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
    0.963615286396
 
 * Train A Model: Logistic Regression to Predict
-Output sample
+Output sample (first 10 rows)
 
 |	id|	target|
 |--------------:| -----------------:|
