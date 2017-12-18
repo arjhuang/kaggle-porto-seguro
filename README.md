@@ -13,7 +13,7 @@ iPython Notebook [here](https://github.com/Jihenghuang/kaggle-porto-seguro/blob/
 * Drop Redundant Features & Replace Missing Data
 * Data Preparation
 * Feature Selection (Random Forest Classifier)
-* Train A Model (Linear Regression)
+* Train A Model (Logistic Regression)
 * Predict & Output
 * Kaggle Score
 
