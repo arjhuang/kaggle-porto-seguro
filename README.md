@@ -39,16 +39,24 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
 <p align="center">
   <img width="1600" height="560" src="correlation.jpg">
 </p>
+
 <!––
 <p align="center">
   <img width="1600" height="560" src="http://jihenghuang.com/wp-content/uploads/2017/10/Correlation-Between-Features.jpg">
 </p>
 -->
+
 * Remaining Feature Data Distribution
 
 <p align="center">
+  <img width="1600" height="840" src="distribution.jpg">
+</p>
+
+<!––
+<p align="center">
   <img width="1600" height="840" src="http://jihenghuang.com/wp-content/uploads/2017/10/Feature-Data-Distribution.jpg">
 </p>
+-->
 
 * Use Random Forest Classifier, the top 20 features contributing to a claim to be filed (target = 1)
 
