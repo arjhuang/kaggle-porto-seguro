@@ -40,7 +40,7 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
   <img width="1600" height="560" src="correlation.jpg">
 </p>
 
-<!––
+<!-- 
 <p align="center">
   <img width="1600" height="560" src="http://jihenghuang.com/wp-content/uploads/2017/10/Correlation-Between-Features.jpg">
 </p>
@@ -52,7 +52,7 @@ Secondly, try more prediction algorithms, obviously. I can add more models in th
   <img width="1600" height="840" src="distribution.jpg">
 </p>
 
-<!––
+<!--
 <p align="center">
   <img width="1600" height="840" src="http://jihenghuang.com/wp-content/uploads/2017/10/Feature-Data-Distribution.jpg">
 </p>
